@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+data/*
+!data/wallet_log.jsonl
+logs/
+*.log
+*.tar.gz
+*.zip
